@@ -1,0 +1,30 @@
+*******************************************
+*         QUIZ TIME MOTHAFUCKAS           *
+*******************************************
+
+1.  What is the meaning of life?
+  42
+  Live long and forever prosper
+  Use the force, Luke
+
+2.  Is this an example of how to use this utility?
+  Why yes, yes it is.
+  Yes.
+  Indeed, it is.
+
+3.  Why did the chicken cross the road?
+  To get to the other side.
+  Yes
+  No
+  Maybe
+  I don't know
+  Can you repeat the question
+  You're not the boss of me now
+
+4.  So how do you use this?
+  Type a question.
+  Type the correct anwer on the next line.
+  List a series of incorrect answers on the subsequent lines
+  Leave an empty line before the next question
+  All of the above
+
